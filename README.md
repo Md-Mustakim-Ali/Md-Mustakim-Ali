@@ -21,19 +21,13 @@
 
 # 🚀 About Me
 
-🎓 Computer Science & Engineering Student at AIUB
-
-📅 Expected Graduation: 2026
-
-💻 Passionate about Full-Stack Web Development
-
-🤖 Exploring Machine Learning and Intelligent Systems
-
-📊 Interested in Data Science and Analytics
-
-🖥️ Enthusiast of Systems Programming and Computer Graphics
-
-⚡ Building practical software solutions through continuous learning
+🎓 Computer Science & Engineering Student at AIUB  
+📅 Expected Graduation: 2026  
+💻 Passionate about Full-Stack Web Development  
+🤖 Exploring Machine Learning and Intelligent Systems  
+📊 Interested in Data Science and Analytics  
+🖥️ Enthusiast of Systems Programming and Computer Graphics  
+⚡ Building practical software solutions through continuous learning  
 
 ---
 
@@ -41,7 +35,7 @@
 
 * 💻 Full-Stack Web Development
 * ⚡ Next.js & NestJS
-* 🗄️ PostgreSQL & Oracle Database
+* 🗄️ PostgreSQL, MySQL & Oracle Database
 * 🤖 Machine Learning
 * 📊 Data Analytics
 * 🖥️ Systems Programming
@@ -56,19 +50,12 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge"/>
 
 </p>
@@ -100,8 +87,7 @@
 <p align="center">
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql"/>
-
-<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle_Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 </p>
 
@@ -112,15 +98,10 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
-
-<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
-
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white"/>
 <img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 
 </p>
@@ -132,13 +113,9 @@
 <p align="center">
 
 <img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-blue?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/MACHINE_LEARNING-red?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/DATA_SCIENCE-green?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/COMPUTER_GRAPHICS-orange?style=for-the-badge"/>
-
 <img src="https://img.shields.io/badge/SYSTEMS_PROGRAMMING-purple?style=for-the-badge"/>
 
 </p>
@@ -148,24 +125,19 @@
 # 📂 Featured Areas
 
 ### 🌐 Full-Stack Development
-
-Next.js • NestJS • PHP • PostgreSQL • REST APIs
+Next.js • NestJS • PHP • PostgreSQL • MySQL • Oracle Database • REST APIs  
 
 ### 🤖 Machine Learning
-
-Classification • Regression • Model Evaluation • Data Preprocessing
+Classification • Regression • Model Evaluation • Data Preprocessing  
 
 ### 📊 Data Science
-
-EDA • Statistical Modeling • Data Visualization • Analytics
+EDA • Statistical Modeling • Data Visualization • Analytics  
 
 ### 🖥️ Systems Programming
-
-C • C++ • Java • Assembly Language
+C • C++ • Java • Assembly Language  
 
 ### 🎮 Graphics Programming
-
-OpenGL • Graphics Simulation • Interactive Applications
+OpenGL • Graphics Simulation • Interactive Applications  
 
 ---
 
@@ -174,7 +146,6 @@ OpenGL • Graphics Simulation • Interactive Applications
 <p align="center">
 
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Md-Mustakim-Ali&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Md-Mustakim-Ali&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </p>
@@ -196,9 +167,7 @@ OpenGL • Graphics Simulation • Interactive Applications
 <p align="center">
 
 <a href="https://www.linkedin.com/in/mustakim-ali-420605395">
-
-<img src="https://img.shields.io/badge/LinkedIn-Mustakim_Ali-blue?style=for-the-badge&logo=linkedin"/>
-
+  <img src="https://img.shields.io/badge/LinkedIn-Mustakim_Ali-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 </p>
