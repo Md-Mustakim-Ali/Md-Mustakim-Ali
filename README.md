@@ -2,19 +2,15 @@
 
 # 👋 Hi, I'm Mustakim Ali
 
-### 💻 Full-Stack Developer
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=2500&pause=1000&color=00FFFF&center=true&vCenter=true&width=1000&lines=💻+Full-Stack+Developer;⚙️+Software+Engineering+Enthusiast;🤖+Machine+Learning+%26+Intelligent+Systems;🎓+AIUB+'26+%7C+American+International+University-Bangladesh" />
 
-### 🤖 Machine Learning Engineer in Progress
+<br>
 
-### 📊 Data Science Enthusiast
+<a href="https://www.linkedin.com/in/mustakim-ali-420605395">
+<img src="https://img.shields.io/badge/LinkedIn-Mustakim_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-### 🎓 AIUB '26 | American International University-Bangladesh
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/mustakim-ali-420605395">
-    <img src="https://img.shields.io/badge/LinkedIn-Mustakim_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
+<br><br>
 
 <img src="https://komarev.com/ghpvc/?username=Md-Mustakim-Ali&style=for-the-badge&color=0e75b6"/>
 
@@ -30,21 +26,21 @@
 
 💻 Passionate about Full-Stack Web Development
 
+⚙️ Interested in Software Engineering and System Design
+
 🤖 Exploring Machine Learning and Intelligent Systems
 
-📊 Interested in Data Science and Analytics
+📊 Enthusiastic about Data Analytics and Problem Solving
 
-🖥️ Enthusiast of Systems Programming and Computer Graphics
-
-⚡ Always learning new technologies and building practical projects
+🖥️ Enjoy building efficient and practical software solutions
 
 ---
 
 ## 🎯 Current Focus
 
-* 💻 Full-Stack Web Development
+* 🌐 Full-Stack Web Development
 * ⚡ Next.js & NestJS
-* 🗄️ PostgreSQL Database Design
+* 🗄️ PostgreSQL & Oracle Database
 * 🤖 Machine Learning
 * 📊 Data Analytics
 * 🖥️ Systems Programming
@@ -57,92 +53,55 @@
 ### Programming Languages
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,python,php,js" />
+
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge"/>
+
 </p>
 
-### Frontend Development
+### Frontend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs" />
 </p>
 
-### Backend Development
+### Backend
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,php" />
 </p>
 
-### Database
+### Databases
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=postgres,mysql" />
+<img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+<img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### Tools & Platforms
+### Tools & Software
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
+<img src="https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
-
----
-
-## 🚀 Expertise
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/FULL_STACK_DEVELOPMENT-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/MACHINE_LEARNING-red?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/DATA_SCIENCE-green?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/POSTGRESQL-orange?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NEXT.JS-black?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/NESTJS-e0234e?style=for-the-badge"/>
-
-</p>
-
----
-
-## 📂 Featured Areas
-
-### 🌐 Full-Stack Development
-
-* Next.js
-* NestJS
-* PHP
-* PostgreSQL
-* MySQL
-* REST APIs
-
-### 🤖 Machine Learning
-
-* Classification
-* Regression
-* Data Preprocessing
-* Model Evaluation
-
-### 📊 Data Science
-
-* Exploratory Data Analysis
-* Statistical Modeling
-* Data Visualization
-* Predictive Analytics
-
-### 🖥️ Systems Programming
-
-* C
-* C++
-* Java
-* Assembly Language
-
-### 🎮 Graphics Programming
-
-* OpenGL
-* Computer Graphics
-* Simulation Projects
 
 ---
 
@@ -163,19 +122,11 @@
 
 ---
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Md-Mustakim-Ali&theme=tokyonight&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
 ## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mustakim-ali-420605395">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LinkedIn-Mustakim_Ali-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 </p>
 
@@ -183,8 +134,8 @@
 
 <div align="center">
 
-### 💻 Building Full-Stack Applications and Intelligent Systems
+### 💻 Building Scalable Applications & Intelligent Solutions
 
-⭐ Learning • Building • Improving
+⭐ Learn • Build • Improve
 
 </div>
