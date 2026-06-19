@@ -2,7 +2,10 @@
 
 # 👋 Hi, I'm Mustakim Ali
 
-### 💻 Full-Stack Developer ### ⚙️ Software Engineering Enthusiast ### 🤖 Exploring Machine Learning Applications ### 🎓 AIUB '26 | American International University-Bangladesh
+### 💻 Full-Stack Developer 
+### ⚙️ Software Engineering Enthusiast
+### 🤖 Exploring Machine Learning Applications
+### 🎓 AIUB '26 | American International University-Bangladesh
 
 <p align="center">
   <a href="https://www.linkedin.com/in/mustakim-ali-420605395">
