@@ -7,7 +7,7 @@
 <br>
 
 <a href="https://www.linkedin.com/in/mustakim-ali-420605395">
-<img src="https://img.shields.io/badge/LinkedIn-Mustakim_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-Mustakim_Ali-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br><br>
@@ -18,9 +18,9 @@
 
 ---
 
-## 🚀 About Me
+# 🚀 About Me
 
-🎓 Computer Science & Engineering Student at AIUB
+🎓 Computer Science & Engineering Student at American International University-Bangladesh (AIUB)
 
 📅 Expected Graduation: 2026
 
@@ -36,7 +36,7 @@
 
 ---
 
-## 🎯 Current Focus
+# 🎯 Current Focus
 
 * 🌐 Full-Stack Web Development
 * ⚡ Next.js & NestJS
@@ -48,43 +48,34 @@
 
 ---
 
-## 🛠️ Tech Stack
+# 🛠️ Tech Stack
 
-### Programming Languages
+## Programming Languages
 
 <p align="center">
-
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-
 <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
-
 <img src="https://img.shields.io/badge/Assembly-555555?style=for-the-badge"/>
-
 </p>
 
-### Frontend
+## Frontend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=html,css,js,tailwind,nextjs" />
 </p>
 
-### Backend
+## Backend Development
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=nestjs,nodejs,php" />
 </p>
 
-### Databases
+## Databases
 
 <p align="center">
 <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -92,7 +83,7 @@
 <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### Tools & Software
+## Tools & Software
 
 <p align="center">
 <img src="https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white"/>
@@ -105,7 +96,7 @@
 
 ---
 
-## 📈 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Md-Mustakim-Ali&show_icons=true&theme=tokyonight&hide_border=true"/>
@@ -114,7 +105,7 @@
 
 ---
 
-## 🔥 GitHub Streak
+# 🔥 GitHub Streak
 
 <p align="center">
 <img src="https://streak-stats.demolab.com?user=Md-Mustakim-Ali&theme=tokyonight&hide_border=true"/>
@@ -122,7 +113,7 @@
 
 ---
 
-## 🌐 Connect With Me
+# 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/mustakim-ali-420605395">
